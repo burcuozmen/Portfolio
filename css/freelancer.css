@@ -10,12 +10,6 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-
-.burcu {
-  text-align: center !important;
-  color: red !important
-
-}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -6922,7 +6916,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #dbcece !important;
+  background-color: #1abc9c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10880,5 +10874,3 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
-
-
